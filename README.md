@@ -1,0 +1,1 @@
+This is a data anonymisation project where different data anoymization algorithms were used. Again this was for the Masters course Data Protection and Privacy. The main contents of this repo is the project that was presented during the course.  
